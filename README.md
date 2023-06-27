@@ -1,4 +1,4 @@
 # docker-go
 - docker compose build
-- docker compose up
+- docker compose up -d
 - docker exec -it golang bash
